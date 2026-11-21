@@ -1,9 +1,3 @@
-# zhukovsd-cv
+# Yaroslav Mayorov - CV
 
-[PDF](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf)
-
-| Page 1 | Page 2 |
-|:---:|:---:|
-| [![Résumé](https://zhukovsd.github.io/zhukovsd-cv/cv-0.png)](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf)  | [![Résumé](https://zhukovsd.github.io/zhukovsd-cv/cv-1.png)](https://zhukovsd.github.io/zhukovsd-cv/cv.pdf) |
-
-Based on [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
+Based on [zhukovsd/zhukovsd-cv](https://github.com/zhukovsd/zhukovsd-cv) and [Awesome-CV](https://github.com/posquit0/Awesome-CV).
