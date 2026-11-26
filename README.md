@@ -1,3 +1,3 @@
 # Yaroslav Mayorov - CV
 
-Based on [zhukovsd/zhukovsd-cv](https://github.com/zhukovsd/zhukovsd-cv) and [Awesome-CV](https://github.com/posquit0/Awesome-CV).
+<img width="790" height="1119" alt="image" src="https://github.com/user-attachments/assets/771e4669-d8ba-4e05-ba0b-f1dd241042b7" />
